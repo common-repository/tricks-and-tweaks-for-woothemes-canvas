@@ -1,0 +1,16 @@
+/* Default style is in style.css */
+
+
+.admin-color-fresh #redux-header,
+.wp-customizer #redux-header {
+    background: #f1f1f1;
+}
+
+.redux-container #redux-header .display_header h2 {
+    color:#333333;
+}
+
+body .rAds {
+    width: 0;
+    height: 0;
+}

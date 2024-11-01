@@ -1,0 +1,4 @@
+*** Tricks and Tweaks for WooThemes Canvas PRO ***
+
+2016.01.01 - version 1.0
+* First release
